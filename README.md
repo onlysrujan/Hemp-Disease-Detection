@@ -1,1 +1,1 @@
-# Hemp-Disease-Detection
+# hemp-project-ml
